@@ -31,7 +31,10 @@ border-radius:20px;
 border-left:1px solid rgba(137, 130, 247, .2);
 }
 
-
+.foot{background-color: black;
+border-radius:15px;
+font-size:1.1em ;
+}
 
 
 
